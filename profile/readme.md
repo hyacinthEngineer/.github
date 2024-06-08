@@ -2,7 +2,7 @@
 
 We are an up-and-coming software solutions company dedicated to user-friendly, high-quality software.
 
-# Current projects
+# Current Projects
 
 ## leaderboard.tools
 
