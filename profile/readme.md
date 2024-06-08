@@ -1,17 +1,16 @@
-# Hyacinth.Engineer
+# hyacinth.engineer
 
-We are an up-and-coming software company dedicated to user-friendly, high-quality, software.
+We are an up-and-coming software solutions company dedicated to user-friendly, high-quality software.
 
-# Current projects in the works
+# Current projects
 
-## Leaderboard tools
-A website with a ton of leaderboard and tournament running tools.
+## leaderboard.tools
 
-## Rel8
-A language acquisition suppliment meant to make learning new words significantly more easy.
+Full-stack web application with leaderboard presentations and tournament running utilities.
 
-## Hyacinth website
-This is simply the website to our software company.
+## REL8
+
+Language app to supplement vocabulary and grammar acquisition in elementary-intermediate language learners.
 
 # Our team
 |person| position|
