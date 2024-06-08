@@ -12,3 +12,10 @@ A language acquisition suppliment meant to make learning new words significantly
 
 ## Hyacinth website
 This is simply the website to our software company.
+
+# Our team
+|person| position|
+|------|----------|
+|Maxine| Owner    |
+|Abby  | Owner    |
+|Zen   | Owner    |
